@@ -1,13 +1,3 @@
-/**
- * Description of the Class
- *
- * @author G. Peck
- * @created July 18, 2002
- * <p>
- * Modified by Jason Quesenberry and Nancy Quesenberry
- * February 9, 2006
- */
-
 public class Item implements Comparable
 {
     private int myId;

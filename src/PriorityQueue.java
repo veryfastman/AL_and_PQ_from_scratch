@@ -1,7 +1,4 @@
 import java.util.NoSuchElementException;
-import java.util.Scanner;
-import java.io.File;
-import java.io.IOException;
 
 public class PriorityQueue<E>
 {
